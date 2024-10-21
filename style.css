@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+table {
+    border: 1px solid;
+}
+
+th, td{
+
+    width: 150px;
+    border: 1px solid rgb(224, 0, 0);
+    text-align: center;
+}
+
+.inf {
+    background-color: orange;
+    color:rgb(0, 0, 0);
+
+    border-radius: 15px;
+    width: 1500px;
+    height: 190px;
+}
+
+.gopo {
+    background-color: aqua;
+    color:white;
+}
+.d{     background: linear-gradient(to right, #1abc9c, #3498db);}
+.z{
+background: -moz-radial-gradient(circle,#ff0000,#0000ff);
+
+}
+.coc{background-color: rgb(166, 218, 166);}
